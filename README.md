@@ -9,7 +9,7 @@
   </a>  
 
   <a href="https://t.me/oN_ovlaSliveD_No">
-    <img src="https://komarev.com/ghpvc/?username=Novose1ov&style=flat-square&color=green" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=oNovlaSliveDNo&style=flat-square&color=green" alt=""/>
   </a>
 </div>
 
