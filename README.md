@@ -19,7 +19,7 @@
 
 - :zap: I’m a student and I very like Python (in any field).
 
-- :seedling: My main directions: AI, Information Security and Full Stack WEB Development.
+- :seedling: My main directions: GUI and Information Security.
 
 - :telescope: In my free time, I solve problems on LeetCode and study new things (read books, watch videos, take courses).
 
